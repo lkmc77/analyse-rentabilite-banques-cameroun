@@ -81,9 +81,9 @@ Par ailleurs, certaines villes offrent un environnement plus favorable à la ren
 ## 📁 Structure du projet
 
 📦 analyse-rentabilite-banques-cameroun
-┣ 📓 analyse_financiere.ipynb # Notebook principal
-┣ 📄 dataset_financier.csv # Données
-┗ 📖 README.md
+- ┣ 📓 analyse_financiere.ipynb # Notebook principal
+- ┣ 📄 dataset_financier.csv # Données
+- ┗ 📖 README.md
 
 
 ---
