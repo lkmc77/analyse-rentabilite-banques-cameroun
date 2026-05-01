@@ -90,7 +90,7 @@ Par ailleurs, certaines villes offrent un environnement plus favorable à la ren
 
 ## ▶️ Exécution du projet
 
-```bash
+  bash
 git clone https://github.com/lkmc77/analyse-rentabilite-banques-cameroun.git
 cd analyse-rentabilite-banques-cameroun
 pip install pandas numpy matplotlib seaborn scikit-learn
