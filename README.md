@@ -100,9 +100,9 @@ jupyter notebook analyse_financiere.ipynb
 
 ## Perspectives d'amélioration
 
--Intégration d’un modèle de prédiction de rentabilité
--Création d’un dashboard interactif (Streamlit / Power BI)
--Analyse sur des données réelles à plus grande échelle
+-  Intégration d’un modèle de prédiction de rentabilité
+-  Création d’un dashboard interactif (Streamlit / Power BI)
+-  Analyse sur des données réelles à plus grande échelle
 
 ---
 
